@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="newrelic.util.PhraseCounterTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-11-29T01:39:17" hostname="do-4RRLVDQ-MBP" time="0.012">
+  <properties/>
+  <testcase name="assertPhrasesCountedAcrossNewLines()" classname="newrelic.util.PhraseCounterTest" time="0.004"/>
+  <testcase name="assertThatApostrophesAreAllowed()" classname="newrelic.util.PhraseCounterTest" time="0.001"/>
+  <testcase name="assertExpectedPhraseCountsFromFile()" classname="newrelic.util.PhraseCounterTest" time="0.001"/>
+  <testcase name="assertExpectedPhraseCountsFromStdIn()" classname="newrelic.util.PhraseCounterTest" time="0.001"/>
+  <testcase name="assertExpectedTokensFromInput()" classname="newrelic.util.PhraseCounterTest" time="0.001"/>
+  <testcase name="assertFalseWhenPhraseNotAdded()" classname="newrelic.util.PhraseCounterTest" time="0.0"/>
+  <testcase name="assertTrueWhenPhraseAdded()" classname="newrelic.util.PhraseCounterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

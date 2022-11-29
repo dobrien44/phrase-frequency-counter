@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="newrelic.service.PhraseCounterServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-29T01:39:16" hostname="do-4RRLVDQ-MBP" time="0.363">
+  <properties/>
+  <testcase name="textReadFromStdInWhenNoPathsFound()" classname="newrelic.service.PhraseCounterServiceTest" time="0.359"/>
+  <testcase name="textNotReadFromStdInWhenAtLeastOnePathFound()" classname="newrelic.service.PhraseCounterServiceTest" time="0.003"/>
+  <system-out><![CDATA[No args provided, checking StdIn
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
