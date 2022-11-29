@@ -1,4 +1,4 @@
-## Phrase Counter
+## Phrase Frequency Counter
 
 This application processes text files and identifies the most common 'n-sized' phrases.
 Input may be provided as follows:
